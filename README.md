@@ -28,7 +28,7 @@ This project uses a synthetic dataset of labeled images, where each label includ
 
 Object-Localization/
 │
-├── A3_38_objectlocalization.ipynb # Main project notebook
+├── objectlocalization.ipynb # Main project notebook
 ├── README.md # Project documentation
 ├── .gitignore # Files to ignore in Git
 └── LICENSE # License information
